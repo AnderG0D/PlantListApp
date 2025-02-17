@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExamenU3</string>
+
+    <string name="textView_titulo">Escoge una planta!</string>
+    <string name="imageView_planta">Imagen planta</string>
+
+    <string name="textView_comun">Nombre comun</string>
+    <string name="textView_cientifico">Nombre cientifico</string>
+    <string name="textView_descripcion">Texto descriptivo</string>
+    <string name="button_regresar">Regresar</string>
+</resources>
